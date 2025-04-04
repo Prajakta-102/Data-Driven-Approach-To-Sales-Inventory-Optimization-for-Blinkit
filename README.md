@@ -1,3 +1,6 @@
+Author: Prajakta Pawar
+Date: April 2025
+
 # Data-Driven-Approach-To-Sales-Inventory-Optimization-for-Blinkit
 📌 Project Overview
 This project focuses on analyzing and optimizing the sales and inventory management of Blinkit, a quick-commerce platform. Using Power BI, we have developed dashboards that provide insights into key metrics like revenue, sales trends, inventory turnover, and customer purchasing behavior. The objective is to enhance decision-making for efficient stock management and sales forecasting.
