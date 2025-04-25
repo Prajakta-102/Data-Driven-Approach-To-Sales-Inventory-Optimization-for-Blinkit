@@ -94,6 +94,6 @@ The project enabled Blinkit to:
 ## 👩‍💻 Author
 
 **Prajakta More**  
-EXTC Engineer | Data Analyst | Aspiring Data Scientist  
+EXTC Engineer | Aspiring Data Analyst & Data Scientist 
 Power BI, Tableau & Python Enthusiast  
 Turning data into insights using ML, SQL, Excel & storytelling.
