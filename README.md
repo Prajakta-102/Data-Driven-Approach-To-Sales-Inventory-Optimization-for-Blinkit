@@ -90,7 +90,8 @@ The project enabled Blinkit to:
   With real-time visual insights that support strategic business planning.
 
 ---
-
+## Auther##
+**Prajakta Pawar**
 ## 👩‍💻 Author
 
 **Prajakta More**  
