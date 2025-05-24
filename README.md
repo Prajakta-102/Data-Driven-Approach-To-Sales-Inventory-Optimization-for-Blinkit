@@ -90,10 +90,7 @@ The project enabled Blinkit to:
   With real-time visual insights that support strategic business planning.
 
 ---
-## Auther##
-**Prajakta Pawar**
 ## 👩‍💻 Author
-
 **Prajakta More**  
 EXTC Engineer | Aspiring Data Analyst & Data Scientist | 
 Power BI, Tableau & Python Enthusiast  
